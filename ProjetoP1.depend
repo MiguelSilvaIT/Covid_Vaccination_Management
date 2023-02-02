@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1642602679 source:c:\users\migui\documents\miguel silva\uni\programação 1\projetop1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesLeitura.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesFicheiros.h"
+
+1642594178 c:\users\migui\documents\miguel silva\uni\programação 1\projetop1\funcoesleitura.h
+
+1642537041 source:c:\users\migui\documents\miguel silva\uni\programação 1\projetop1\funcoesleitura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesLeitura.h"
+
+1642605907 c:\users\migui\documents\miguel silva\uni\programação 1\projetop1\funcoesmembros.h
+	"funcoesLeitura.h"
+
+1642596772 source:c:\users\migui\documents\miguel silva\uni\programação 1\projetop1\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesMembros.h"
+
+1642605232 source:c:\users\migui\documents\miguel silva\uni\programação 1\projetop1\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesTestes.h"
+
+1642605843 c:\users\migui\documents\miguel silva\uni\programação 1\projetop1\funcoestestes.h
+	"funcoesLeitura.h"
+	"funcoesMembros.h"
+
+1642602617 source:c:\users\migui\documents\miguel silva\uni\programação 1\projetop1\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoesFicheiros.h"
+
+1642602679 c:\users\migui\documents\miguel silva\uni\programação 1\projetop1\funcoesficheiros.h
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+
+1642605927 source:c:\users\migui\documents\miguel silva\uni\1_ano\programação 1\projetop1\funcoesficheiros.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoesFicheiros.h"
+
+1642602679 c:\users\migui\documents\miguel silva\uni\1_ano\programação 1\projetop1\funcoesficheiros.h
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+
+1642605907 c:\users\migui\documents\miguel silva\uni\1_ano\programação 1\projetop1\funcoesmembros.h
+	"funcoesLeitura.h"
+
+1642594178 c:\users\migui\documents\miguel silva\uni\1_ano\programação 1\projetop1\funcoesleitura.h
+
+1642605843 c:\users\migui\documents\miguel silva\uni\1_ano\programação 1\projetop1\funcoestestes.h
+	"funcoesLeitura.h"
+	"funcoesMembros.h"
+
+1642537041 source:c:\users\migui\documents\miguel silva\uni\1_ano\programação 1\projetop1\funcoesleitura.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesLeitura.h"
+
+1642605904 source:c:\users\migui\documents\miguel silva\uni\1_ano\programação 1\projetop1\funcoesmembros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesMembros.h"
+
+1642605898 source:c:\users\migui\documents\miguel silva\uni\1_ano\programação 1\projetop1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"funcoesLeitura.h"
+	"funcoesMembros.h"
+	"funcoesTestes.h"
+	"funcoesFicheiros.h"
+
+1642606145 source:c:\users\migui\documents\miguel silva\uni\1_ano\programação 1\projetop1\funcoestestes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoesTestes.h"
+
